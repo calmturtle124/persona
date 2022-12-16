@@ -30,3 +30,26 @@ body {
     margin-top: 150px;
     margin-bottom: 150px;
 }
+
+.large-padding {
+    padding-top: 20px;
+}
+
+.background-image {
+    background-image: url("leone.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
+
+.large-bottom {
+    padding-bottom: 50px;
+}
+
+.max-image {
+    max-width: 100px;
+}
